@@ -17,6 +17,7 @@
 
 <h3 align="left">Idiomas e ferramentas:</h3>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <h3 align="left">Suporte:</h3>
 <p> <a href="https://www.buymeacoffee.com/Arthur Teixeira"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Arthur Teixeira" /></a> </p><br><br>
